@@ -26,10 +26,6 @@ This project demonstrates full-stack web development skills including authentica
 
 ![Admin Login](screenshots/login-page.png)
 
-Secure authentication system for dashboard access.
-
----
-
 ## 📊 Dashboard Overview
 
 ![Dashboard](screenshots/dashboard-overview.png)
