@@ -18,6 +18,16 @@ This project demonstrates full-stack web development skills including authentica
 
 🌐 Live Application: [YOUR_RENDER_LINK](https://student-management-system-8-8v7h.onrender.com)
 
+## Demo Credentials
+
+To explore the application, use the following demo account:
+
+**Username:** admin
+
+**Password:** admin123
+
+> Note: This is a demo account created for portfolio and evaluation purposes only.
+
 ---
 
 # 📸 Screenshots
