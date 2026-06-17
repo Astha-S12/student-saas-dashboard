@@ -24,19 +24,23 @@ This project demonstrates full-stack web development skills including authentica
 
 ## 🔐 Admin Login
 
-![Admin Login](screenshots/login-page.png)
+![Admin Login](screenshots/final-output-1.png)
 
-## 📊 Dashboard Overview
+## 📊 Dashboard with graphs/cards
 
-![Dashboard](screenshots/dashboard-overview.png)
+![Dashboard](screenshots/final-output-2.png)
 
-## 👨‍🎓 Student Management
+## 👨‍🎓 Dashboard with search bar and student records
 
-![Student Management](screenshots/student-management.png)
+![Dashboard](screenshots/final-output-3.png)
 
-## ℹ️ About Page
+## 🛠️ Render dashboard
 
-![About Page](screenshots/about-page.png)
+![Render dashboard](screenshots/output-1.png)
+
+## 🛠️ Railway dashboard
+
+![Railway dashboard](screenshots/output-2.png)
 
 ---
 
